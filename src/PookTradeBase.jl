@@ -7,5 +7,9 @@ include("Include.jl")
 export PSResult
 export PSError
 export PSAbstractAsset
+export PSAbstractAssetReturnModel
+export PSAbstractAssetTreeNode
+export PSAbstractAssetTree
+
 
 end # module
