@@ -1,5 +1,7 @@
 module PookTradeBase
 
-greet() = print("Hello World!")
+# export -
+export PSResult
+export PSError
 
 end # module
