@@ -5,3 +5,5 @@ end
 struct PSError <: Exception
     message::String
 end
+
+abstract type PSAbstractAsset end
