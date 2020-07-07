@@ -1,0 +1,4 @@
+name = "PookTradeBase"
+uuid = "a7d80504-cf70-4d3c-ae4d-49fe0971309a"
+authors = ["Jeffrey Varner <jvarner@pooksoft.com>"]
+version = "0.1.0"
