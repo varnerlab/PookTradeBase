@@ -1,6 +1,5 @@
-struct PSResult{T,E<:Exception}
-    result::Union{Some{T}, Nothing}
-    error::Union{E, Nothing}
+struct PSResult{T}
+    value::T
 end
 
 struct PSError <: Exception
