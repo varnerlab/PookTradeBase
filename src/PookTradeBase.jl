@@ -10,6 +10,7 @@ export PSAbstractAsset
 export PSAbstractAssetReturnModel
 export PSAbstractAssetTreeNode
 export PSAbstractAssetTree
+export PSAbstractProblemModel
 
 
 end # module

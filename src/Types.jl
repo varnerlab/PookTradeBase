@@ -11,3 +11,4 @@ abstract type PSAbstractAsset end
 abstract type PSAbstractAssetReturnModel end
 abstract type PSAbstractAssetTreeNode end
 abstract type PSAbstractAssetTree end
+abstract type PSAbstractProblemModel end
